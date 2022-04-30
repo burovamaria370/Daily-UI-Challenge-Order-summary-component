@@ -1,0 +1,158 @@
+body {
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+.top-container {
+  width: 1440px;
+  height: 900px;
+  margin: 50px auto;
+  background-color: hsl(225, 100%, 94%);
+}
+
+.middle-container {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 451px;
+  height: 702px;
+  background-color: white;
+  margin: 149px auto;
+  position: absolute;
+  border-radius: 20px;
+  box-shadow: -1px 20px 17px 5px rgba(204, 217, 255, 0.56);
+  -webkit-box-shadow: -1px 20px 17px 5px rgba(204, 217, 255, 0.56);
+  -moz-box-shadow: -1px 20px 17px 5px rgba(204, 217, 255, 0.56);
+}
+
+.hero {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: 0px auto;
+  position: absolute;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.order {
+  text-align: center;
+  font-weight: 900;
+  font-size: 28px;
+  color: hsl(223, 47%, 23%);
+  padding-top: 230px;
+}
+
+.text {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+  color: hsl(224, 23%, 55%);
+  padding-left: 25px;
+  padding-right: 25px;
+  line-height: 1.5;
+}
+
+.annual {
+  text-align: left;
+  font-size: 15px;
+  font-weight: 900;
+  padding-left: 128px;
+  padding-top: 32px;
+  margin-bottom: 0px;
+  color: hsl(223, 47%, 23%);
+  margin-top: 0px;
+  position: absolute;
+  width: 20%;
+  
+}
+
+.change {
+  text-align: right;
+  font-size: 14px;
+  font-weight: 700;
+  padding-right: 55px;
+  color: hsl(245, 75%, 52%);
+  text-decoration: underline;
+  margin-top: 0px;
+  padding-top: 44px;
+  margin-bottom: 0px;
+  padding-left: 345px;
+  position: absolute;
+}
+
+.cost {
+  text-align: left;
+  font-size: 13px;
+  font-weight: 500;
+  padding-left: 128px;
+  padding-top: 60px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  position: absolute;
+  color: hsl(224, 23%, 55%);
+  width: 20%;
+}
+
+.music {
+  padding-bottom: 0px;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  padding-top: 0px;
+  margin-top: 455px;
+  margin-left: 60px;
+}
+
+.btn {
+  background: hsl(245, 75%, 52%);
+  border-radius: 8px;
+  width: 356px;
+  height: 50px;
+  margin-top: 130px;
+  margin-left: 47px;
+  position: absolute;
+  box-shadow: -1px 23px 17px 2px rgba(204,214,255,0.56);
+-webkit-box-shadow: -1px 23px 17px 2px rgba(204,214,255,0.56);
+-moz-box-shadow: -1px 23px 17px 2px rgba(204,214,255,0.56);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.proceed {
+  color: white;
+  font-weight: 700;
+  width: 356px;
+  font-size: 15px;
+  text-align: center;
+  height: 20px;
+}
+
+.bottom {
+  text-align: center;
+  font-size: 15px;
+  color: hsl(224, 23%, 55%);
+  font-weight: 700;
+  width: 356px;
+  right: 0px;
+  left: 0px;
+  margin-top: 214px;
+  margin-left: 47px;
+  position: absolute;
+}
